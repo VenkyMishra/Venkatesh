@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Venkatesh Mishra
 - 👀 I’m interested in learning more about software developement...
 - 🌱 I’m currently learning about Data structures and Algorithms and Python as a programming language...
+- 🌱 I’m also learning more about Data science and Machine Learning as I plan to pursue further education and a career in this field.
 <!---- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: through LinkedIn: https://www.linkedin.com/in/venkatesh-mishra/
 
